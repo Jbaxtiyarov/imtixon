@@ -1,0 +1,320 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1440px;
+  margin: 0px auto;
+  text-decoration: none;
+}
+
+header {
+  opacity: 0.5;
+}
+
+main {
+  margin-top: 70px;
+}
+
+.p {
+  width: 443px;
+  height: 48px;
+  left: 289px;
+  top: 36px;
+  /* Text/In Field */
+  border: 1px solid #CCCCCC;
+  border-radius: 8px;
+}
+
+.kal h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 88px;
+  /* identical to box height, or 138% */
+  /* Text/Tittle */
+  color: #1C3554;
+}
+
+.kal p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+  margin-top: 24px;
+  color: #808080;
+}
+
+.popu {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+  text-transform: capitalize;
+  font-feature-settings: "pnum" on, "lnum" on;
+  color: #1C3554;
+  margin-top: 50px;
+}
+
+.car1 {
+  width: 295px;
+  background: #FFFFFF;
+  border-radius: 8px;
+}
+
+.img {
+  width: 262.89px;
+  height: 208px;
+  background: #CCCCCC;
+  border-radius: 4px;
+}
+
+.btn {
+  transform: translate(66px, -16px);
+  width: 131px;
+  height: 32px;
+  background: #4586D6;
+  border-radius: 8px;
+  font-size: 12px;
+  line-height: 32px;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.soz {
+  margin-top: 20px;
+  max-width: 240px;
+  height: 48px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #1C3554;
+}
+
+.qq {
+  margin-top: 8px;
+  width: 262.89px;
+  height: 24px;
+  font-size: 12px;
+  line-height: 24px;
+  color: #F72585;
+}
+
+.aa {
+  margin-top: 12px;
+  display: flex;
+  gap: 9px;
+}
+
+.son {
+  width: 45.15px;
+  height: 24px;
+  font-size: 14px;
+  line-height: 24px;
+  color: #808080;
+}
+
+.son2 {
+  margin-top: 20px;
+  display: flex;
+  gap: 9px;
+}
+
+.ss1 {
+  height: 27px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+  color: #CCCCCC;
+  text-decoration: line-through;
+}
+
+.ss2 {
+  height: 32px;
+  left: 11.89%;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  color: #1C3554;
+}
+
+.yua {
+  display: flex;
+  margin-top: 45px;
+  gap: 32px;
+}
+
+.yas {
+  display: flex;
+  margin-top: 150px;
+}
+
+.xee {
+  padding: 14px 115px;
+  background: #F72585;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  margin-left: 700px;
+}
+
+.yas h1 {
+  color: #1C3554;
+}
+
+.card22 {
+  width: 296px;
+  height: 391px;
+  background: #000000;
+  opacity: 0.2;
+}
+
+.card22 h1 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 700px;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.roww {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+
+.roww2 {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.disl {
+  margin-top: 50px;
+}
+
+.tay {
+  margin-top: 160px;
+  margin-left: 100px;
+  display: flex;
+}
+
+.taga {
+  display: flex;
+  padding: 16px 40px;
+  background: #FFF5F9;
+  margin-left: 700px;
+  color: #F72585;
+  border: none;
+  border-radius: 8px;
+}
+
+.popq {
+  padding: 16px 60px;
+  background: #F72585;
+  border-radius: 8px;
+  border: none;
+  margin-left: 40px;
+  color: white;
+}
+
+.tav {
+  display: flex;
+}
+
+.yav {
+  margin-left: 400px;
+  margin-top: 70px;
+}
+
+footer {
+  background: #021934;
+  border-radius: 8px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.ff-chap {
+  padding-top: 80px;
+}
+
+.ff-chap p {
+  margin-top: 36px;
+  max-width: 440px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+  color: #c0bfbf;
+}
+
+.ff-chap .pp {
+  margin-top: 139px;
+  padding-bottom: 40px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+  color: #c0bfbf;
+}
+
+.ff-ong {
+  width: 600px;
+  margin-top: 80px;
+  display: flex;
+  gap: 120px;
+  justify-content: space-around;
+}
+
+.fo-1 h1 {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.fo-1 h1 a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.fo-1 .pp {
+  margin-top: 30px;
+}
+
+.fo-1 p {
+  margin-right: px;
+  margin-top: -px;
+  font-size: 16px;
+  line-height: 32px;
+  color: #FFFFFF;
+}
+
+.asd {
+  margin-left: 100px;
+}
+
+.ips {
+  margin-left: 100px;
+}
+
+.fo-1 p a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.fo-1 .ppp {
+  max-width: 600px;
+  transform: translate(0px, 70px);
+  margin-left: -300px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+  text-align: right;
+  color: #c0bfbf;
+}/*# sourceMappingURL=courses.css.map */
